@@ -2,4 +2,10 @@
 Og dette er skrevet på github.com
 Og nu skriver jeg lokalt
 Og nu skriver jeg lokalt igen igen
+<<<<<<< HEAD
 Fra HotFix
+=======
+Nu ændrer jeg igen og laver en ny branch
+NyNY
+>>>>>>> fix21
+sdfsdfsdfs tessst
